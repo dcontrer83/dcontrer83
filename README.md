@@ -7,7 +7,7 @@ Software Engineer
 I was going into teaching in mathematics but then found my passion in coding when taking classes about it. I am currently taking a bootcamp in full-stacks web development and I am enjoying back-end development the most. I am looking forward to improving my efficiency in my code and growing more in the field!
 
 * 🌍  I'm based in California
-* 🖥️  See my portfolio at [Diana-Contreras-Portfolio](http://diana-contreras-portfolio.herokuapp.com/)
+* 🖥️  See my portfolio at [Diana-Contreras-Portfolio](https://diana-contreras-portfolio.herokuapp.com/)
 * ✉️  You can contact me at [dcontrer83@yahoo.com](mailto:dcontrer83@yahoo.com)
 * 🧠  I'm learning ReactJS
 * ⚡  I enjoy gaming in my free time!
