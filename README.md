@@ -4,7 +4,7 @@ Hi 👋 My name is Diana Contreras
 Software Engineer
 -----------------
 
-I was going into teaching in mathematics but then found my passion in coding when taking classes about it. I am currently taking a bootcamp in full-stacks web development and I am enjoying back-end development the most. I am looking forward to improving my efficiency in my code and growing more in the field!
+I am a graduate in mathematics and currently in a Bootcamp for full-stack web development. I'm looking to pursue an analytical career in problem-solving and engineering that combines coding and math. I enjoy learning new ways to improve my efficiency in coding!
 
 * 🌍  I'm based in California
 * 🖥️  See my portfolio at [Diana-Contreras-Portfolio](https://diana-contreras-portfolio.herokuapp.com/)
