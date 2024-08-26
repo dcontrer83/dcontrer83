@@ -7,7 +7,7 @@ Software Engineer
 I am a graduate in mathematics and currently in a Bootcamp for full-stack web development. I'm looking to pursue an analytical career in problem-solving and engineering that combines coding and math. I enjoy learning new ways to improve my efficiency in coding!
 
 * 🌍  I'm based in California
-* 🖥️  See my portfolio at [Diana-Contreras-Portfolio](https://diana-contreras-portfolio.herokuapp.com/)
+* 🖥️  See my portfolio at [Diana-Contreras-Portfolio](https://diana-contreras-portfolio-e531f4a96237.herokuapp.com/)
 * ✉️  You can contact me at [dcontrer83@yahoo.com](mailto:dcontrer83@yahoo.com)
 * 🧠  I'm learning ReactJS
 * ⚡  I enjoy gaming in my free time!
